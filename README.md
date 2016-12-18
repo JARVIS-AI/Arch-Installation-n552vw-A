@@ -16,7 +16,7 @@ and if you want arch for starting go with :
   
 Laptop Asus n552vw-A
   Config :
-    {
+    
       CPU : core i7 Quad Core 2.6 Boot Upto 3.6 GHz
       Ram : 12 GB 2|4 Slot -- 2 Slot is free DDR5 :)
       VGA 1 : Intel graphic 
@@ -28,7 +28,7 @@ Laptop Asus n552vw-A
       Intel wifi
       and go on :)
       Its yours :))
-    }
+    
 
 Note you can duel boot linux with another linux OR windows versions.
 
