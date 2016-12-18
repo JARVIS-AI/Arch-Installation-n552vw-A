@@ -14,6 +14,24 @@ and if you want arch for starting go with :
   2 - Manjaro
   3 - Arch band
   
+Laptop Asus n552vw-A
+  Config :
+    {
+      CPU : core i7 Quad Core 2.6 Boot Upto 3.6 GHz
+      Ram : 12 GB 2|4 Slot -- 2 Slot is free DDR5 :)
+      VGA 1 : Intel graphic 
+      VGA 2 : NVIDIA GTX 960m 4GB DDR5
+      4K display --- Cool for linux very beautiful you'll see :)
+      2 speaker
+      touchpad
+      webcam
+      Intel wifi
+      and go on :)
+      Its yours :))
+    }
+
+Note you can duel boot linux with another linux OR windows versions.
+
 //============================================================================
 
 Principles
@@ -141,7 +159,7 @@ Note : Arch wiki is big so the link of Begginers Guides :
 
     https://wiki.archlinux.org/index.php/Installation_guide
     
-Remember READ IT FIRST :))
+Remember ----> READ IT FIRST :))
 ============================================================
 
-Thanks to join us and see our works
+Thanks to join us and see our works !
